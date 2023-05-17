@@ -45,5 +45,3 @@ This repo has been tested with [darwin.builder](https://nixos.org/manual/nixpkgs
 
 See the relevant documentation for deploying Laravel and Inertia.js apps. The database schema is contained in `db.sql`, along with test data. At some point I'll separate the schema and the test data.
 
-The .env file in this repository dictates the username and password for the dev database. This should ALWAYS BE CHANGED for any deployment.
-
