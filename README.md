@@ -5,6 +5,8 @@ Bill splitting website written with Laravel and Inertia.js.
 
 Still in development but works well as it is.
 
+![Screenshot_2023-05-17_20-23-38](https://github.com/tauroid/bills/assets/4631050/5b6cda29-30ed-4976-ba48-57df20338e1f)
+
 # Usage
 
 A 'settlement' is a group of transactions at the end of which all participants want to have received the same amount of money and goods/services as they have given out.
