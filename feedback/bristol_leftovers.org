@@ -1,0 +1,41 @@
+#+title: Bristol Leftovers
+* Sam
+- I said: the linking URL icon wasn't intuitive - didn't realise I had to click on it
+
+- The purple flowers icons under action - was expecting to be able to settle the bill there
+
+- Hard to distinguish between a transaction and a settlement, are both needed? I was doing duplicated steps before realising one was transaction and settlement
+
+- Didn't understand the "share: " bit or the green stars
+
+- When it comes to the settlement page, it'd be handy to see the descriptions, otherwise the rest of the transaction stuff was intuitive enough to work out
+
+- *I thought I was doing duplicated steps before realising
+
+Settle button (not sure if mark as settled or just go to create transaction)
+
+- Me: with the flower icon, you mean something like
+  - Settle
+  - Edit
+  - Permissions
+  - Delete
+  ?
+
+- [thumbs up]
+
+- Me: and I guess it would take you to the create transaction screen
+
+- I guess you could always delete it instead of mark as settled but the latter was what I would look for intuitively
+
+- Me: ohhh you mean like "this is done now I don't care about it any more"?
+
+- [thumbs up]
+
+* Cat
+- When you enter an amount and then select gbp it clears the amount field
+
+- I don’t think it’s very clear when you’re switching between home view and transaction view
+
+- Me: like clear how you navigate between them?
+
+- Yes, and also which view you’re in and how they’re different
